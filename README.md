@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandrashekar Reddy Kasireddy
 
-🚀 **Data Engineer | Scalable Pipelines | Cloud & Automation Enthusiast**
+🚀 **Data Engineer | Cloud & Automation Enthusiast**
 
 I'm a data engineer passionate about designing **scalable data pipelines** and automating **end-to-end workflows**. My expertise lies in building robust systems using **Python**, **SQL**, **Spark**, and **Airflow**, while leveraging cloud platforms like **AWS** and **Azure** to deliver reliable and efficient data solutions.
 
