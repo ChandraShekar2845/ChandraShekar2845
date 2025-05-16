@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandrashekar Kasireddy
+# 👋 Hi, I'm Chandrashekar Reddy Kasireddy
 
 🚀 **Data Engineer | Scalable Pipelines | Cloud & Automation Enthusiast**
 
