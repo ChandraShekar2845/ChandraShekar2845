@@ -78,3 +78,7 @@ Feel free to reach out to **collaborate on projects**, **discuss data engineerin
 ---
 
 ⭐ *If you find my work useful, consider giving a star to the repos or connecting with me on LinkedIn!*
+
+## Visitor's Count:
+
+![Visitor Count](https://profile-counter.glitch.me/ChandraShekar2845/count.svg)
